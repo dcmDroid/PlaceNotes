@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Moje místa</string>
+    <string name="add_a_place">Vytvořte místo</string>
+    <string name="no_place_yet">Nemáte vytvořena žádná místa</string>
+    <string name="edit_text_hint_title">Název Místa</string>
+    <string name="edit_text_hint_description">Popis</string>
+    <string name="edit_text_hint_date">Datum</string>
+    <string name="edit_text_hint_location">Poloha</string>
+    <string name="text_add_image">Přidat obrázek</string>
+    <string name="text_add_image_dialog">Vyberte z možností</string>
+    <string name="btn_text_save">Uložit místo</string>
+    <string name="btn_text_back">Zpět</string>
+    <string name="image_content_description">Obrázek</string>
+    <string name="btn_text_view_on_map">Zobrazit v mapě</string>
+    <string name="add_place_select_current_location_text">Vybrat aktuální polohu</string>
+    <string name="place_detail_label">Detail místa</string>
+    <string name="map_label">Mapa</string>
+    <string name="splash_app_text_big">Mm</string>
+
+    <string name="google_maps_api_key">AIzaSyA_hwkskMOd4pHHlZ48i8nYW7HneXWQXM0</string>
+
+
+</resources>
